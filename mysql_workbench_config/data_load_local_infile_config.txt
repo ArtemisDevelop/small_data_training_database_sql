@@ -1,0 +1,14 @@
+DATA LOAD LOCAL INFILE CONFIGURATION
+
+----------------------------------------------------------------------------------------------------------------------
+
+ 1 -> In der MySQL Connection Übersicht bei der gewünschten Connection das Kontextmenü öffnen (Linksklick).
+ 2 -> Edit Connection
+ 3 -> Nachfolgende Configuration im Server Connection Manager unter Connection -> Advanced -> Others hinzufügen.
+
+----------------------------------------------------------------------------------------------------------------------
+
+OPT_LOCAL_INFILE=1
+secure-file-priv=0
+
+----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+Note for Downloading the Database
+
+All data from this database, including the CSV files and MySQL dump, 
+can be downloaded from the following link: https://cloud.artemistec.ch/s/small_data_database_for_github.
+
+Please note that the CSV files and the MySQL dump are not available on GitHub due to their substantial size.
+However, to access the entire database, we have provided it as a complete package at the link mentioned above.
+
+Ensure that you have sufficient storage space when downloading the database, as it can be extensive.
+The other database files are also available for download from this link and can be useful for various application and query operations.
+
+If you have any further questions or need assistance, please do not hesitate to contact us at info@artemisdevelop.ch.
+We hope that this database proves to be valuable for your projects. Enjoy developing and exploring!
